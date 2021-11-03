@@ -1,0 +1,4 @@
+alma|320
+körte|210
+banán|70
+citrom|121

@@ -1,0 +1,4 @@
+alma|220
+körte|120
+eper|150
+banán|230

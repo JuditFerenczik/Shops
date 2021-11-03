@@ -1,0 +1,5 @@
+kökény|240
+dinnye|110
+málna|130
+alma|180
+körte|80

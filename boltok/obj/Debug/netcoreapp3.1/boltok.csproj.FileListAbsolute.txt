@@ -1,0 +1,4 @@
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.csprojAssemblyReference.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.AssemblyInfoInputs.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.AssemblyInfo.cs
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.csproj.CoreCompileInputs.cache
