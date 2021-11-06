@@ -1,4 +1,14 @@
-C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.csprojAssemblyReference.cache
 C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.AssemblyInfoInputs.cache
 C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.AssemblyInfo.cs
 C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.csproj.CoreCompileInputs.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.csproj.AssemblyReference.cache
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\bin\Debug\netcoreapp3.1\boltok.exe
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\bin\Debug\netcoreapp3.1\boltok.deps.json
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\bin\Debug\netcoreapp3.1\boltok.runtimeconfig.json
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\bin\Debug\netcoreapp3.1\boltok.runtimeconfig.dev.json
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\bin\Debug\netcoreapp3.1\boltok.dll
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\bin\Debug\netcoreapp3.1\boltok.pdb
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.dll
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.pdb
+C:\Judit\Programozás\szoftverfejlesztő\C#\boltok\boltok\obj\Debug\netcoreapp3.1\boltok.genruntimeconfig.cache

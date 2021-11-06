@@ -2,14 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace boltok
+namespace Boltos
 {
     class Termekek
     {
         private string nev;
         private int ar;
-        private int boltsorszam;
-        public Termekek(string nev, int ar, int boltsorszam) {
+        private string boltsorszam;
+        public Termekek(string nev, int ar, string boltsorszam)
+        {
             this.nev = nev;
             this.ar = ar;
             this.boltsorszam = boltsorszam;
@@ -24,7 +25,7 @@ namespace boltok
 
         public void setNev(string nev)
         {
-           this.nev = nev; 
+            this.nev = nev;
         }
 
 
@@ -41,26 +42,15 @@ namespace boltok
 
 
 
-        public int getBoltsorszam()
+        public string getBoltsorszam()
         {
             return this.boltsorszam;
         }
 
 
-        public void setBoltsorszam(int bolt)
+        public void setBoltsorszam(string bolt)
         {
             this.boltsorszam = bolt;
         }
-
     }
-
-
-   
-        static void Main(string[] args)
-        {
-
-
-
-        }
-    }
-        
+}
